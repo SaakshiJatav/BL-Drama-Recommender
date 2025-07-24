@@ -30,7 +30,7 @@ It highlights my *ML engineering skills* and my ability to build end-to-end appl
 
 1. *Clone this repository*
 
-git clone https://github.com/YOUR-USERNAME/BL-Drama-Recommender.git
+git clone https://github.com/SaakshiJatav/BL-Drama-Recommender.git
 
 2. *Install dependencies*
 
